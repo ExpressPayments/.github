@@ -4,7 +4,7 @@
 
 <img src="https://github.com/ExpressPayments-samples/.github/raw/main/images/logo.png" height="100" alt="The ExpressPayments logo">
 
-This page contains the source code for all of our libraries, SDKs and plug-ins as well as our Open API specifications. To find a list of example integrations for those, you can visit **[the ExpressPayments examples GitHub page](https://github.com/ExpressPayments-samples)**.
+This page contains the source code for all of our libraries, SDKs and plug-ins as well as our Open API specifications. To find a list of example integrations for those, you can visit **[the ExpressPayments samples GitHub page](https://github.com/ExpressPayments-samples)**.
 
 ## 📜 Our documentation pages : 
 
