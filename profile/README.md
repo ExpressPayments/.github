@@ -40,14 +40,15 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 
 * [OpenAPI specification](https://github.com/ExpressPayments/expresspayments-openapi)
 * [API library for PHP](https://github.com/ExpressPayments/expresspayments-php)
-* [API library for Java](https://github.com/ExpressPayments/expresspayments-java-library)
+* [API library for Java](https://github.com/ExpressPayments/expresspayments-java)
 * [API library for Node.js](https://github.com/ExpressPayments/expresspayments-node)
-* [API library for .NET](https://github.com/ExpressPayments/expresspayments-dotnet-library)
-* [API library for Go](https://github.com/ExpressPayments/expresspayments-go-library)
-* [API library for Python](https://github.com/ExpressPayments/expresspayments-python-library)
-* [API library for Ruby](https://github.com/ExpressPayments/expresspayments-ruby-library)
+* [API library for .NET](https://github.com/ExpressPayments/expresspayments-dotnet)
+* [API library for Go](https://github.com/ExpressPayments/expresspayments-go)
+* [API library for Python](https://github.com/ExpressPayments/expresspayments-python)
+* [API library for Ruby](https://github.com/ExpressPayments/expresspayments-ruby)
 
 ### Other repositories
 
+* [Mock ExpressPayments Server](https://github.com/ExpressPayments/expresspayments-mock)
 * [PHP webhook helper module for payment integrations [Beta]](https://github.com/ExpressPayments/php-webhook-module)
 * [Plugin for feast to run an offline store on Spark [Discontinued]](https://github.com/ExpressPayments/feast-spark-offline-store)
